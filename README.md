@@ -1,4 +1,8 @@
-# podman-wsl2
+# ESTE PROCESSO NÃO É MAIS NECESSÁRIO PARA EXECUTAR O PODMAN NO WSL2.
+
+## Este repositório será mantido apenas por questões históricas. Favor seguir a documentação oficial do podman de agora em diante!
+
+***
 
 ## AVISO
 
